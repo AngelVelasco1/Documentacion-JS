@@ -1,3 +1,3 @@
-let palabra =  "Metodo lenght"
+let palabra =  "Metodo includes"
 
-console.log(palabra.length);
+console.log(palabra.includes("Metodo"));
