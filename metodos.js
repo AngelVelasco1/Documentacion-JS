@@ -1,3 +1,3 @@
-let palabra =  "LMetodo startsWith"
+let palabra =  "Ejemplo Metodo replace"
 
-console.log(palabra.endsWith("h"));
+console.log(palabra.replace("Ejemplo", "Explicacion del"));
