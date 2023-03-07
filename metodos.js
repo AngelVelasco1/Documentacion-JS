@@ -1,3 +1,3 @@
-let palabra =  "Metodo includes"
+let palabra =  "LMetodo startsWith"
 
-console.log(palabra.includes("Metodo"));
+console.log(palabra.startsWith("l"));
