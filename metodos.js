@@ -1,3 +1,3 @@
 
-let palabra =  "Ejemplo Metodo uppercase"
-console.log(palabra.toUpperCase());
+let palabra =  "Ejemplo Metodo lastIndexOf"
+console.log(palabra.lastIndexOf("j"));
