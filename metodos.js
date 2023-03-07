@@ -1,2 +1,3 @@
-let palabra =  "Ejemplo Metodo repeat "
-console.log(palabra.repeat(3));
+
+let palabra =  "Ejemplo Metodo concat"
+console.log(palabra.concat(" para concatenar strings"));
