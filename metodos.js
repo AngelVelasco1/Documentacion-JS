@@ -1,3 +1,4 @@
-let palabra =  "Ejemplo Metodo replace"
+let palabra =  "Ejemplo Metodo slice";
+let palabra2 = palabra.slice(7, 20);
 
-console.log(palabra.replace("Ejemplo", "Explicacion del"));
+console.log(palabra2);
