@@ -1,3 +1,3 @@
 
-let palabra =  "Ejemplo Metodo concat"
-console.log(palabra.toLowerCase());
+let palabra =  "Ejemplo Metodo uppercase"
+console.log(palabra.toUpperCase());
