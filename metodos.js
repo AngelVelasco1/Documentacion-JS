@@ -1,7 +1,11 @@
-let ejemplo1 = true;
-let ejemplo2 = false;
+let x = true;
+let y = false;
 
-let result1 = !ejemplo1 && ejemplo2;
-let result2 = ejemplo1 && !ejemplo2;
-console.log(result1);
+let result = x ^ y; 
+console.log(result);
+
+let ejemplo2 = true;
+let ejemplo3 = true;
+
+let result2 = ejemplo2 ^ ejemplo3;
 console.log(result2);
