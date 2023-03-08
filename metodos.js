@@ -1,11 +1,7 @@
-let ejemplo1 = true || true;
-console.log(ejemplo1);
+let ejemplo1 = true;
+let ejemplo2 = false;
 
-let ejemplo2 = true || false;
-console.log(ejemplo2);
-
-let ejemplo3 = false || false;
-console.log(ejemplo3);
-
-let ejemplo4 = false || true;
-console.log(ejemplo4);
+let result1 = !ejemplo1 && ejemplo2;
+let result2 = ejemplo1 && !ejemplo2;
+console.log(result1);
+console.log(result2);
