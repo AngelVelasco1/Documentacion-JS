@@ -1,5 +1,5 @@
-let x = -100;
+let x = 10;
 
-let result = Math.exp(x);
+let result = Math.log(x);
 console.log(result);
 
