@@ -1,6 +1,3 @@
-let numbers = [5, 25, 40, 10];
-
-
-let result = Math.min(...numbers);
+let result = Math.pow(5, 3);
 console.log(result);
 
