@@ -1,5 +1,5 @@
 let x = 100;
 
-let result = ++x 
+let result = --x 
 console.log(result);
 
