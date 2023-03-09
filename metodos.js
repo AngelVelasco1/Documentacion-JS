@@ -1,3 +1,3 @@
-let result = Math.sin(120);
+let result = Math.tan(120);
 console.log(result);
 
