@@ -1,3 +1,3 @@
-let result = Math.round(10.4);
+let result = Math.cos(120);
 console.log(result);
 
