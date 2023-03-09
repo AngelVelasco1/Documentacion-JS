@@ -1,5 +1,5 @@
 let x = -100;
 
-let result = Math.abs(x);
+let result = Math.exp(x);
 console.log(result);
 
