@@ -1,3 +1,3 @@
-let result = Math.pow(5, 3);
+let result = Math.random();
 console.log(result);
 
