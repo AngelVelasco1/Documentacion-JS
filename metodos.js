@@ -1,3 +1,3 @@
-let result = Math.floor(10.5);
+let result = Math.round(10.4);
 console.log(result);
 
