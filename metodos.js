@@ -1,6 +1,8 @@
-const comer = function() {
-    return "Estoy comiendo";
-}
+const function1 = function() {
+    alert("Funcion 1 ejecutada llamandola desde la funcion 2")
+};
 
-alert(comer);
-alert(comer());
+const function2 = function(callback) {
+    callback();
+};
+function2(function1);
