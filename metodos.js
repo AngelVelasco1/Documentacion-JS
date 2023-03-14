@@ -1,2 +1,6 @@
-const movimiento = new Function("return 'Me movi 3Km';");
-alert(movimiento());
+const comer = function() {
+    return "Estoy comiendo";
+}
+
+alert(comer);
+alert(comer());
